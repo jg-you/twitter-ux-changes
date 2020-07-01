@@ -2,11 +2,11 @@
 
 
 
-**What is this?**: A crowdsourced list of Twitter UX changes.
+**What is this?** A crowdsourced list of Twitter UX changes.
 
-**Why?**: Computational social analyses of Twitter data might be affected by UI and UX changes. Check your findings against this list to see if observed effects could be driven by these changes.
+**Why?** Computational social analyses of Twitter data might be affected by UI and UX changes. Check your findings against this list to see if observed effects could be driven by interface changes.
 
-**What do we care about?**: All visible change to the interface and user interaction. Back-end changes are not listed here.
+**What is included?** All visible change to the interface and user interaction. Back-end changes are not listed here.
 
 Contributions are welcome!
 
