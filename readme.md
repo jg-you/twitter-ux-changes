@@ -11,6 +11,9 @@
 Contributions are welcome!
 
 
+See also [https://github.com/igorbrigadir/twitter-history](github.com/igorbrigadir/twitter-history) for a similar list.
+
+
 # List of changes
 
 | Date      | Change | Source |
